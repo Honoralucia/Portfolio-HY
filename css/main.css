@@ -2190,10 +2190,10 @@ input::-moz-focus-inner {
   columns: 2 360px;
   column-gap: 64px;
 }
-{ text-align : center 
+
 .about-me__buttons {
   margin-top: 4.8rem;
-}
+
 }
 .about-me__buttons .column:first-child {
   padding-right: 32px;
