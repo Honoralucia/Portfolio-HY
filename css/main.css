@@ -2345,7 +2345,7 @@ input::-moz-focus-inner {
     padding-right: 30px;
   }
 
-  .about-experience__timeline .column::last-child {
+  .about-experience__timeline .column:last-child {
     padding-left: 30px;
   }
 
@@ -2783,7 +2783,7 @@ input::-moz-focus-inner {
 .item-folio__thumb .thumb-link::before {
   display: block;
   content: "";
-  background-color: rgba217, 97, 11, 0.03);
+  background-color: rgba217, 97, 11, 0.03;
   position: absolute;
   top: 0;
   left: 0;
@@ -3448,7 +3448,7 @@ footer {
   padding-top: 0;
   padding-bottom: 6.4rem;
   border-top: 1px solid rgba(100, 56, 30, 0.03);
-  color: rgba(255, 255, 255, 0.3);
+  color: rgba(191, 94, 34);
   position: relative;
 }
 
@@ -3474,7 +3474,7 @@ footer a:visited {
   content: "|";
   display: inline-block;
   padding: 0 1rem 0 1.2rem;
-  color: rgba(255, 255, 255, 0.1);
+  color: rgba(191, 94, 34);
 }
 
 .ss-copyright span:last-child::after {
@@ -3514,7 +3514,7 @@ footer a:visited {
 
 .ss-go-top a:hover,
 .ss-go-top a:focus {
-  background-color: #907b52;
+  background-color: #FF914D;
   color: #ffffff;
 }
 
@@ -3523,7 +3523,7 @@ footer a:visited {
   display: block;
   width: 1px;
   height: 100px;
-  background-color: rgba(255, 255, 255, 0.05);
+  background-color: rgba(191, 94, 34);
   position: absolute;
   top: -115px;
   left: 50%;
@@ -3538,7 +3538,7 @@ footer a:visited {
   line-height: 30px;
   text-transform: uppercase;
   letter-spacing: .2rem;
-  color: rgba(255, 255, 255, 0.15);
+  color: rgba();
   transition: all 0.5s;
   -webkit-transform: rotate(-90deg);
   transform: rotate(-90deg);
